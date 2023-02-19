@@ -1,44 +1,60 @@
-# Homework-4
-
-The Totally Awesome Quiz of Useless Information
-04 Web APIs: Code Quiz
-
-## Description
-
-    This is a 5 question quiz based on the book "The Totally Awesome Book of Useless Information". 
-    When you click Start Quiz, you will have 50 seconds to answer all the questions.
-    For each correct answer you win 5 seconds.
-    For each incorrect answer you loose 5 seconds.
-    At the end of the quiz enter your initials to the high scores list.
-
-## Minor Bug
-
-    Even the quiz works fine, I couldn´t get rid of this two errors (Didn´t have enough time to work more on them):
-
-    Uncaught TypeError: Cannot read property 'addEventListener' of null
-        at high.js:33
-    
-    
-    Uncaught TypeError: Cannot read property 'appendChild' of null
-        at printHighScore (high.js:20)
-        at high.js:10
+# Code Quiz Game
         
-    Media queries need to be fixed 100% (Not enough time)
+## 🌟[Description](#table-of-contents)
+Make a quiz game that runs for a set amount of time. Includes a section with top scores and times. Keeping track of high scores is saved locally.
 
-## Date
 
-  28 Abril 2020
+<p>
+    <img src="https://img.shields.io/badge/license-MIT-yellow"/>
+    <img src="https://img.shields.io/badge/-node.js-orange" />
+    <img src="https://img.shields.io/badge/-express.js-red" />
+    <img src="https://img.shields.io/badge/-Inquirer.js-brightgreen" />
+    <img src="https://img.shields.io/badge/-Sequelize-blue" />
+    <img src="https://img.shields.io/badge/-MYSql-green" />
+    <img src="https://img.shields.io/badge/-handlebars-red" />
+</p>
+
+## Table-of-Contents
+* [Description](#description)
+* [Submission](#User-Stor)
+* [Mock-Up](#Mock-Up)
+* [License](#License)
+* [Contributing](#contributing)
+* [FAQs](#faqs)
   
-# Repository link
+## 🚀 [Submission](#table-of-contents)
 
-https://github.com/hoffman1200/Homework-4
-
-# Web site link
-
-https://hoffman1200.github.io/Homework-4/
+Deployed app : https://vimukthigunasekara.github.io/code-quiz/
+</br>
+Github Page : https://github.com/VimukthiGunasekara/code-quiz
 
 
-Fernando Soto Calis @hoffman1200
+## 📺 [Mock-Up](#table-of-contents)
+
+![Image](./assets/images/screenshots.png)
+      
+## 📑 [License](#table-of-contents)
+<img src="https://img.shields.io/badge/license-MIT-yellow"/>
+
+Your repository is licensed under an mit open source license, so other people can contribute more easily.More information can be found by clicking this [link.](https://choosealicense.com/licenses/mit)
+
+## 🤝 [Contributing](#table-of-contents)
+We are open to all kinds of contributions. If you want to:
+* 🤔 Suggest a feature
+* 🐛 Report an issue
+* 📖 Improve documentation
+* 👨‍💻 Contribute to the code
+
+We are excited that you are reading this and are willing to contribute. No need to think big. Even a typo fix might save our day and make you a hero. Every contribution counts!
+     
+Feel free to check [issues page](https://github.com/VimukthiGunasekara/code-quiz/issues) 
+     
+## 🤔 [FAQs](#table-of-contents)
+Please contact me using the following links :
+[Vimukthi Gunasekara](https://github.com/VimukthiGunasekara)
+
+
+
 
 
 
